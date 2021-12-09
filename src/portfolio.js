@@ -117,7 +117,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [{
       schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/waiting.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
       desc: "Participated in the research of XXX and published 3 papers.",
@@ -128,7 +128,7 @@ const educationInfo = {
     },
     {
       schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/waiting.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2013 - April 2017",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -164,7 +164,7 @@ const workExperiences = {
   experience: [{
       role: "Software Engineer",
       company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/waiting.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -175,14 +175,14 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/waiting.png"),
       date: "May 2017 – May 2018",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "Software Engineer Intern",
       company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/waiting.png"),
       date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
@@ -203,7 +203,7 @@ const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [{
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/waiting.png"),
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [{
@@ -214,7 +214,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/waiting.png"),
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [{
@@ -236,7 +236,7 @@ const achievementSection = {
   achievementsCards: [{
       title: "Google Code-In Finalist",
       subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/waiting.png"),
       footerLink: [{
           name: "Certification",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
@@ -254,7 +254,7 @@ const achievementSection = {
     {
       title: "Google Assistant Action",
       subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/waiting.png"),
       footerLink: [{
         name: "View Google Assistant Action",
         url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
@@ -264,7 +264,7 @@ const achievementSection = {
     {
       title: "PWA Web App Developer",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/waiting.png"),
       footerLink: [{
           name: "Certification",
           url: ""
