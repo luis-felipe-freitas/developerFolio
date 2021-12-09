@@ -1,43 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d62139e16e4121a8df1632c803e78d6d",
+    "revision": "edb8ce55eaa106303cd202a20ba032ff",
     "url": "/luis-felipe-freitas/developerFolio/index.html"
   },
   {
-    "revision": "b02fa01f9e2e464a848c",
+    "revision": "3655dc8e7abda90dab25",
     "url": "/luis-felipe-freitas/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
-    "url": "/luis-felipe-freitas/developerFolio/static/css/4.e91a4b36.chunk.css"
+    "revision": "8eb2fd69c82e91ff78a7",
+    "url": "/luis-felipe-freitas/developerFolio/static/css/main.0de45002.chunk.css"
   },
   {
-    "revision": "57349d12cca15e5059ff",
-    "url": "/luis-felipe-freitas/developerFolio/static/css/main.385b2342.chunk.css"
+    "revision": "d348456b423877762e1b",
+    "url": "/luis-felipe-freitas/developerFolio/static/js/2.a1d9789c.chunk.js"
   },
   {
-    "revision": "6099da15d7ef139536ef",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/2.3b89ba20.chunk.js"
+    "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
+    "url": "/luis-felipe-freitas/developerFolio/static/js/2.a1d9789c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/2.3b89ba20.chunk.js.LICENSE.txt"
+    "revision": "3655dc8e7abda90dab25",
+    "url": "/luis-felipe-freitas/developerFolio/static/js/3.f723c677.chunk.js"
   },
   {
-    "revision": "b02fa01f9e2e464a848c",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/3.6d3a6ac5.chunk.js"
+    "revision": "8eb2fd69c82e91ff78a7",
+    "url": "/luis-felipe-freitas/developerFolio/static/js/main.d6e2df1f.chunk.js"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/4.aa2ec175.chunk.js"
-  },
-  {
-    "revision": "57349d12cca15e5059ff",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/main.8387e51c.chunk.js"
-  },
-  {
-    "revision": "aa3c4430eac93d2e6ce2",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.800aa1bd.js"
+    "revision": "fe60e42bdcc5e8a2c2fa",
+    "url": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.a0666813.js"
   },
   {
     "revision": "a617b62cd8089465865a37c676da00e2",
@@ -102,9 +94,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b758ef56d398145542e137daa28e392",
     "url": "/luis-felipe-freitas/developerFolio/static/media/stanfordLogo.3b758ef5.png"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/luis-felipe-freitas/developerFolio/static/media/talksCardBack.13780cdd.svg"
   }
 ]);

@@ -1,25 +1,21 @@
 {
   "files": {
-    "main.css": "/luis-felipe-freitas/developerFolio/static/css/main.385b2342.chunk.css",
-    "main.js": "/luis-felipe-freitas/developerFolio/static/js/main.8387e51c.chunk.js",
-    "main.js.map": "/luis-felipe-freitas/developerFolio/static/js/main.8387e51c.chunk.js.map",
-    "runtime-main.js": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.800aa1bd.js",
-    "runtime-main.js.map": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.800aa1bd.js.map",
-    "static/js/2.3b89ba20.chunk.js": "/luis-felipe-freitas/developerFolio/static/js/2.3b89ba20.chunk.js",
-    "static/js/2.3b89ba20.chunk.js.map": "/luis-felipe-freitas/developerFolio/static/js/2.3b89ba20.chunk.js.map",
+    "main.css": "/luis-felipe-freitas/developerFolio/static/css/main.0de45002.chunk.css",
+    "main.js": "/luis-felipe-freitas/developerFolio/static/js/main.d6e2df1f.chunk.js",
+    "main.js.map": "/luis-felipe-freitas/developerFolio/static/js/main.d6e2df1f.chunk.js.map",
+    "runtime-main.js": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.a0666813.js",
+    "runtime-main.js.map": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.a0666813.js.map",
+    "static/js/2.a1d9789c.chunk.js": "/luis-felipe-freitas/developerFolio/static/js/2.a1d9789c.chunk.js",
+    "static/js/2.a1d9789c.chunk.js.map": "/luis-felipe-freitas/developerFolio/static/js/2.a1d9789c.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/luis-felipe-freitas/developerFolio/static/css/3.df879eac.chunk.css",
-    "static/js/3.6d3a6ac5.chunk.js": "/luis-felipe-freitas/developerFolio/static/js/3.6d3a6ac5.chunk.js",
-    "static/js/3.6d3a6ac5.chunk.js.map": "/luis-felipe-freitas/developerFolio/static/js/3.6d3a6ac5.chunk.js.map",
-    "static/css/4.e91a4b36.chunk.css": "/luis-felipe-freitas/developerFolio/static/css/4.e91a4b36.chunk.css",
-    "static/js/4.aa2ec175.chunk.js": "/luis-felipe-freitas/developerFolio/static/js/4.aa2ec175.chunk.js",
-    "static/js/4.aa2ec175.chunk.js.map": "/luis-felipe-freitas/developerFolio/static/js/4.aa2ec175.chunk.js.map",
+    "static/js/3.f723c677.chunk.js": "/luis-felipe-freitas/developerFolio/static/js/3.f723c677.chunk.js",
+    "static/js/3.f723c677.chunk.js.map": "/luis-felipe-freitas/developerFolio/static/js/3.f723c677.chunk.js.map",
     "index.html": "/luis-felipe-freitas/developerFolio/index.html",
-    "precache-manifest.406646635a2f7e8a0a121570b3709143.js": "/luis-felipe-freitas/developerFolio/precache-manifest.406646635a2f7e8a0a121570b3709143.js",
+    "precache-manifest.ba9869c705db5c8befc2ba99d7b5af73.js": "/luis-felipe-freitas/developerFolio/precache-manifest.ba9869c705db5c8befc2ba99d7b5af73.js",
     "service-worker.js": "/luis-felipe-freitas/developerFolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/3.df879eac.chunk.css.map",
-    "static/css/4.e91a4b36.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/4.e91a4b36.chunk.css.map",
-    "static/css/main.385b2342.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/main.385b2342.chunk.css.map",
-    "static/js/2.3b89ba20.chunk.js.LICENSE.txt": "/luis-felipe-freitas/developerFolio/static/js/2.3b89ba20.chunk.js.LICENSE.txt",
+    "static/css/main.0de45002.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/main.0de45002.chunk.css.map",
+    "static/js/2.a1d9789c.chunk.js.LICENSE.txt": "/luis-felipe-freitas/developerFolio/static/js/2.a1d9789c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/luis-felipe-freitas/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/luis-felipe-freitas/developerFolio/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/luis-felipe-freitas/developerFolio/static/media/codeInLogo.47a7a717.webp",
@@ -34,13 +30,12 @@
     "static/media/quoraLogo.png": "/luis-felipe-freitas/developerFolio/static/media/quoraLogo.4b2938b9.png",
     "static/media/saayaHealthLogo.webp": "/luis-felipe-freitas/developerFolio/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/luis-felipe-freitas/developerFolio/static/media/skill.34409398.svg",
-    "static/media/stanfordLogo.png": "/luis-felipe-freitas/developerFolio/static/media/stanfordLogo.3b758ef5.png",
-    "static/media/TalkCard.scss": "/luis-felipe-freitas/developerFolio/static/media/talksCardBack.13780cdd.svg"
+    "static/media/stanfordLogo.png": "/luis-felipe-freitas/developerFolio/static/media/stanfordLogo.3b758ef5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.800aa1bd.js",
-    "static/js/2.3b89ba20.chunk.js",
-    "static/css/main.385b2342.chunk.css",
-    "static/js/main.8387e51c.chunk.js"
+    "static/js/runtime-main.a0666813.js",
+    "static/js/2.a1d9789c.chunk.js",
+    "static/css/main.0de45002.chunk.css",
+    "static/js/main.d6e2df1f.chunk.js"
   ]
 }
