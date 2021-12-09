@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edb8ce55eaa106303cd202a20ba032ff",
+    "revision": "8c9b62ca1093d8652096c432aea255ae",
     "url": "/luis-felipe-freitas/developerFolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/luis-felipe-freitas/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "8eb2fd69c82e91ff78a7",
+    "revision": "19a8d58a3a37c2a2f0af",
     "url": "/luis-felipe-freitas/developerFolio/static/css/main.0de45002.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/luis-felipe-freitas/developerFolio/static/js/3.f723c677.chunk.js"
   },
   {
-    "revision": "8eb2fd69c82e91ff78a7",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/main.d6e2df1f.chunk.js"
+    "revision": "19a8d58a3a37c2a2f0af",
+    "url": "/luis-felipe-freitas/developerFolio/static/js/main.a7200411.chunk.js"
   },
   {
     "revision": "fe60e42bdcc5e8a2c2fa",
