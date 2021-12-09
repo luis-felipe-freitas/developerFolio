@@ -1,39 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "699965a52029ce57156fee007eb57107",
+    "revision": "6a287e69909f9331becef09f838fe1bc",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "3655dc8e7abda90dab25",
+    "revision": "b02fa01f9e2e464a848c",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "f9e72a1ce3a1db37baa9",
-    "url": "/developerFolio/static/css/main.ee95231c.chunk.css"
+    "revision": "9a1a6e212e46b93378b4",
+    "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "d348456b423877762e1b",
-    "url": "/developerFolio/static/js/2.a1d9789c.chunk.js"
+    "revision": "b2c3ace364dfe02cc831",
+    "url": "/developerFolio/static/css/main.dcf76762.chunk.css"
   },
   {
-    "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/developerFolio/static/js/2.a1d9789c.chunk.js.LICENSE.txt"
+    "revision": "6099da15d7ef139536ef",
+    "url": "/developerFolio/static/js/2.3b89ba20.chunk.js"
   },
   {
-    "revision": "3655dc8e7abda90dab25",
-    "url": "/developerFolio/static/js/3.f723c677.chunk.js"
+    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
+    "url": "/developerFolio/static/js/2.3b89ba20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9e72a1ce3a1db37baa9",
-    "url": "/developerFolio/static/js/main.03aa05ae.chunk.js"
+    "revision": "b02fa01f9e2e464a848c",
+    "url": "/developerFolio/static/js/3.6d3a6ac5.chunk.js"
   },
   {
-    "revision": "c43029ec2f21cb36870d",
-    "url": "/developerFolio/static/js/runtime-main.8db38f58.js"
+    "revision": "9a1a6e212e46b93378b4",
+    "url": "/developerFolio/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "a617b62cd8089465865a37c676da00e2",
-    "url": "/developerFolio/static/media/Louis George Cafe.a617b62c.ttf"
+    "revision": "b2c3ace364dfe02cc831",
+    "url": "/developerFolio/static/js/main.8df78fc7.chunk.js"
+  },
+  {
+    "revision": "c601ae9bb5764f1b5549",
+    "url": "/developerFolio/static/js/runtime-main.a4b07877.js"
+  },
+  {
+    "revision": "21f233e19402cc4a66866a7f31191f0d",
+    "url": "/developerFolio/static/media/Agustina.21f233e1.woff"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -94,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b758ef56d398145542e137daa28e392",
     "url": "/developerFolio/static/media/stanfordLogo.3b758ef5.png"
+  },
+  {
+    "revision": "13780cdd0144cacdef25486e2c2503f8",
+    "url": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   }
 ]);

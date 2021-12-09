@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/developerFolio/static/css/main.ee95231c.chunk.css",
-    "main.js": "/developerFolio/static/js/main.03aa05ae.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.03aa05ae.chunk.js.map",
-    "runtime-main.js": "/developerFolio/static/js/runtime-main.8db38f58.js",
-    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.8db38f58.js.map",
-    "static/js/2.a1d9789c.chunk.js": "/developerFolio/static/js/2.a1d9789c.chunk.js",
-    "static/js/2.a1d9789c.chunk.js.map": "/developerFolio/static/js/2.a1d9789c.chunk.js.map",
+    "main.css": "/developerFolio/static/css/main.dcf76762.chunk.css",
+    "main.js": "/developerFolio/static/js/main.8df78fc7.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.8df78fc7.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.a4b07877.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.a4b07877.js.map",
+    "static/js/2.3b89ba20.chunk.js": "/developerFolio/static/js/2.3b89ba20.chunk.js",
+    "static/js/2.3b89ba20.chunk.js.map": "/developerFolio/static/js/2.3b89ba20.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/developerFolio/static/css/3.df879eac.chunk.css",
-    "static/js/3.f723c677.chunk.js": "/developerFolio/static/js/3.f723c677.chunk.js",
-    "static/js/3.f723c677.chunk.js.map": "/developerFolio/static/js/3.f723c677.chunk.js.map",
+    "static/js/3.6d3a6ac5.chunk.js": "/developerFolio/static/js/3.6d3a6ac5.chunk.js",
+    "static/js/3.6d3a6ac5.chunk.js.map": "/developerFolio/static/js/3.6d3a6ac5.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/developerFolio/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.aa2ec175.chunk.js": "/developerFolio/static/js/4.aa2ec175.chunk.js",
+    "static/js/4.aa2ec175.chunk.js.map": "/developerFolio/static/js/4.aa2ec175.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.2dbb01832641b767e097f9eeb8229abc.js": "/developerFolio/precache-manifest.2dbb01832641b767e097f9eeb8229abc.js",
+    "precache-manifest.deb48a69433df384760738e5f8932333.js": "/developerFolio/precache-manifest.deb48a69433df384760738e5f8932333.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/developerFolio/static/css/3.df879eac.chunk.css.map",
-    "static/css/main.ee95231c.chunk.css.map": "/developerFolio/static/css/main.ee95231c.chunk.css.map",
-    "static/js/2.a1d9789c.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.a1d9789c.chunk.js.LICENSE.txt",
+    "static/css/4.e91a4b36.chunk.css.map": "/developerFolio/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.dcf76762.chunk.css.map": "/developerFolio/static/css/main.dcf76762.chunk.css.map",
+    "static/js/2.3b89ba20.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.3b89ba20.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/developerFolio/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/developerFolio/static/media/codeInLogo.47a7a717.webp",
@@ -30,12 +34,13 @@
     "static/media/quoraLogo.png": "/developerFolio/static/media/quoraLogo.4b2938b9.png",
     "static/media/saayaHealthLogo.webp": "/developerFolio/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
-    "static/media/stanfordLogo.png": "/developerFolio/static/media/stanfordLogo.3b758ef5.png"
+    "static/media/stanfordLogo.png": "/developerFolio/static/media/stanfordLogo.3b758ef5.png",
+    "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8db38f58.js",
-    "static/js/2.a1d9789c.chunk.js",
-    "static/css/main.ee95231c.chunk.css",
-    "static/js/main.03aa05ae.chunk.js"
+    "static/js/runtime-main.a4b07877.js",
+    "static/js/2.3b89ba20.chunk.js",
+    "static/css/main.dcf76762.chunk.css",
+    "static/js/main.8df78fc7.chunk.js"
   ]
 }
