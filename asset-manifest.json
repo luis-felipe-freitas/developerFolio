@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/luis-felipe-freitas/developerFolio/static/css/main.836cf36b.chunk.css",
-    "main.js": "/luis-felipe-freitas/developerFolio/static/js/main.8ebf6bb0.chunk.js",
-    "main.js.map": "/luis-felipe-freitas/developerFolio/static/js/main.8ebf6bb0.chunk.js.map",
+    "main.css": "/luis-felipe-freitas/developerFolio/static/css/main.385b2342.chunk.css",
+    "main.js": "/luis-felipe-freitas/developerFolio/static/js/main.8387e51c.chunk.js",
+    "main.js.map": "/luis-felipe-freitas/developerFolio/static/js/main.8387e51c.chunk.js.map",
     "runtime-main.js": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.800aa1bd.js",
     "runtime-main.js.map": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.800aa1bd.js.map",
     "static/js/2.3b89ba20.chunk.js": "/luis-felipe-freitas/developerFolio/static/js/2.3b89ba20.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.aa2ec175.chunk.js": "/luis-felipe-freitas/developerFolio/static/js/4.aa2ec175.chunk.js",
     "static/js/4.aa2ec175.chunk.js.map": "/luis-felipe-freitas/developerFolio/static/js/4.aa2ec175.chunk.js.map",
     "index.html": "/luis-felipe-freitas/developerFolio/index.html",
-    "precache-manifest.69d2910f05a5ce50601a8ae125eacc4c.js": "/luis-felipe-freitas/developerFolio/precache-manifest.69d2910f05a5ce50601a8ae125eacc4c.js",
+    "precache-manifest.406646635a2f7e8a0a121570b3709143.js": "/luis-felipe-freitas/developerFolio/precache-manifest.406646635a2f7e8a0a121570b3709143.js",
     "service-worker.js": "/luis-felipe-freitas/developerFolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/4.e91a4b36.chunk.css.map",
-    "static/css/main.836cf36b.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/main.836cf36b.chunk.css.map",
+    "static/css/main.385b2342.chunk.css.map": "/luis-felipe-freitas/developerFolio/static/css/main.385b2342.chunk.css.map",
     "static/js/2.3b89ba20.chunk.js.LICENSE.txt": "/luis-felipe-freitas/developerFolio/static/js/2.3b89ba20.chunk.js.LICENSE.txt",
     "static/media/index.css": "/luis-felipe-freitas/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/luis-felipe-freitas/developerFolio/static/media/airbnbLogo.c59720d6.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.800aa1bd.js",
     "static/js/2.3b89ba20.chunk.js",
-    "static/css/main.836cf36b.chunk.css",
-    "static/js/main.8ebf6bb0.chunk.js"
+    "static/css/main.385b2342.chunk.css",
+    "static/js/main.8387e51c.chunk.js"
   ]
 }

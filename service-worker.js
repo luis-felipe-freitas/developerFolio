@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/luis-felipe-freitas/developerFolio/precache-manifest.69d2910f05a5ce50601a8ae125eacc4c.js"
+  "/luis-felipe-freitas/developerFolio/precache-manifest.406646635a2f7e8a0a121570b3709143.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f674ca522fe23b729635dbd3857179e",
+    "revision": "d62139e16e4121a8df1632c803e78d6d",
     "url": "/luis-felipe-freitas/developerFolio/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/luis-felipe-freitas/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "1ed9c6565144ea2ef5ae",
-    "url": "/luis-felipe-freitas/developerFolio/static/css/main.836cf36b.chunk.css"
+    "revision": "57349d12cca15e5059ff",
+    "url": "/luis-felipe-freitas/developerFolio/static/css/main.385b2342.chunk.css"
   },
   {
     "revision": "6099da15d7ef139536ef",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/luis-felipe-freitas/developerFolio/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "1ed9c6565144ea2ef5ae",
-    "url": "/luis-felipe-freitas/developerFolio/static/js/main.8ebf6bb0.chunk.js"
+    "revision": "57349d12cca15e5059ff",
+    "url": "/luis-felipe-freitas/developerFolio/static/js/main.8387e51c.chunk.js"
   },
   {
     "revision": "aa3c4430eac93d2e6ce2",
     "url": "/luis-felipe-freitas/developerFolio/static/js/runtime-main.800aa1bd.js"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/luis-felipe-freitas/developerFolio/static/media/Agustina.21f233e1.woff"
+    "revision": "a617b62cd8089465865a37c676da00e2",
+    "url": "/luis-felipe-freitas/developerFolio/static/media/Louis George Cafe.a617b62c.ttf"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
