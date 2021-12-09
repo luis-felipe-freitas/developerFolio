@@ -19,8 +19,8 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <a href="/" className="logo">
-          <span className="logo-name">{greeting.username}</span>
+        <a href="" className="logo">
+          <span className={isDark ? "logo-name-dark" : "logo-name"}>{greeting.username}</span>
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
         <label
