@@ -15,7 +15,7 @@ const greeting = {
   title: "Hello there, I'm Luis Felipe Freitas",
   subTitle: emoji(
     `I'm a Network Engineer who also passionately works with Data Science & AI Engineering.`
-    ),
+  ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -43,10 +43,10 @@ const skillsSection = {
   subTitle: "DATA LOVER WHO WANTS TO EXPLORE EVERYTHING",
   skills: [
     emoji(
-     `⚡ IT project manager who also performs IT Risk Assessment activities.`
+      `⚡ IT project manager who also performs IT Risk Assessment activities.`
     ),
     emoji(`⚡ Research and implementation of data science and AI bussiness 
-    focused solutions, specifically computer vision.`),
+    focused solutions, specifically computer vision.`)
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -56,7 +56,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
