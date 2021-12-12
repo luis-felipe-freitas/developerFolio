@@ -4,12 +4,12 @@ For greater control over colors visit each components .scss file. */
 
 // logo colors
 $logoColor: #011936;
-$logoHover: #83C9F4;
-$logoColorDark: #83C9F4;
+$logoHover: #83c9f4;
+$logoColorDark: #83c9f4;
 $logoHoverDark: #ffffff;
 
 // button colors
-$buttonColor: #83C9F4;
+$buttonColor: #83c9f4;
 $buttonHover: #011936;
 $topButtonHover: #465362;
 
@@ -34,7 +34,7 @@ $githubRepoCardColor: rgb(88, 96, 105);
 $githubRepoCardRepoCardStatsColor: rgb(106, 115, 125);
 $githubRepoCardRepoNameColor: rgb(36, 41, 46);
 $githubProfileCardLocationTS: #ffebcd;
-$githubProfileCardBorder: #83C9F4;
+$githubProfileCardBorder: #83c9f4;
 
 // light background colors
 $lightBackground1: #fff;
@@ -54,15 +54,19 @@ $darkBoxShadow: #d9dbdf;
 $darkBoxShadow2: #ffffff;
 
 // linear gradients
-$experienceCardBlurredDivLG: linear-gradient(rgba(0, 0, 0, 0.4),
-  rgba(0, 0, 0, 0.2));
-$experienceCardBannerLG: linear-gradient(rgba(0, 0, 0, 0.7),
-  rgba(0, 0, 0, 0.5));
+$experienceCardBlurredDivLG: linear-gradient(
+  rgba(0, 0, 0, 0.4),
+  rgba(0, 0, 0, 0.2)
+);
+$experienceCardBannerLG: linear-gradient(
+  rgba(0, 0, 0, 0.7),
+  rgba(0, 0, 0, 0.5)
+);
 
 // borders
 $progressBarBackground: rgb(243, 239, 239);
 $lightBorder1: rgba(211, 211, 211, 0.397);
-$educationCardBorder: #C0DFA1;
+$educationCardBorder: #c0dfa1;
 
 // hovers
 $achievementCertificateCardHoverDark: rgba(255, 255, 255, 0.2);
@@ -71,13 +75,13 @@ $headerHoverBG: #f4f4f4;
 $contactDetailHoverTS: #b5b5b5;
 
 // misc backgrounds
-$progressBarSpanBG: #C0DFA1;
+$progressBarSpanBG: #c0dfa1;
 $iconBackground: #333;
 $appHeaderBG: #282c34;
 
 // misc colors
-$skillsColor: #83C9F4;
-$appLink: #9FC490;
+$skillsColor: #83c9f4;
+$appLink: #9fc490;
 
 // social media icons
 $faceBook: #3b5998;
