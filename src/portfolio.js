@@ -14,8 +14,8 @@ const greeting = {
   username: "Luis Felipe Freitas",
   title: "Hello there, I'm Luis Felipe Freitas",
   subTitle: emoji(
-    `I am a network engineer working as an IT project manager. 
-I am also passionate about Data Science and AI Engineering.`
+    `I am a network engineer working with IT project management for about 5 years. 
+I am also love working with Data Science and AI Engineering.`
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
