@@ -17,8 +17,7 @@ const greeting = {
     `I am a network engineer working with IT project management for about 5 years. 
 I am also love working with Data Science and AI Engineering.`
   ),
-  resumeLink:
-    "bit.ly/Luis-Curriculum", // Set to empty to hide the button
+  resumeLink: "bit.ly/Luis-Curriculum", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -180,7 +179,7 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-{
+    {
       image: require("./assets/images/clustering.png"),
       projectName: "Clustering",
       projectDesc: `Unsupervised machine learning, that is, it does not need to have a prior classification. 
@@ -194,7 +193,7 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-	{
+    {
       image: require("./assets/images/classificacao.png"),
       projectName: "Classification",
       projectDesc: `Classification is supervised machine learning, it must have a prior classification.`,
@@ -221,8 +220,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "COBIT",
-      subtitle:
-        "Control Objectives for Information and Related Technology",
+      subtitle: "Control Objectives for Information and Related Technology",
       image: require("./assets/images/cobit.png"),
       footerLink: [
         {
@@ -245,7 +243,7 @@ const achievementSection = {
           url: "https://pergamum.anac.gov.br/arquivos/PA2017-4209.PDF"
         }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
