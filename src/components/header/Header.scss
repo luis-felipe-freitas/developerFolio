@@ -66,6 +66,17 @@
   font-variant-ligatures: no-common-ligatures;
   -webkit-font-variant-ligatures: no-common-ligatures;
   padding: 0 10px;
+  color: $logoColor;
+}
+.header .logo-name:hover {
+  color: $logoHover;
+}
+
+.header .logo-name-dark {
+  color: $logoColorDark;
+}
+.header .logo-name-dark:hover {
+  color: $logoHoverDark;
 }
 
 /* menu */
