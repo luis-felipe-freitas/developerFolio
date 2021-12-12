@@ -18,7 +18,7 @@ const greeting = {
 I am also love working with Data Science and AI Engineering.`
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "bit.ly/Luis-Curriculum", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -165,29 +165,45 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME PROJECTS THAT I HELPED TO CREATE",
   projects: [
     {
-      image: require("./assets/images/waiting.png"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/anac-id.png"),
+      projectName: "ANAC-ID",
+      projectDesc: `ANAC-id is the artificial intelligence algorithm 
+	    developed in-house for analyzing images in the Agency's databases.`,
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "More",
+          url: "https://www.canva.com/design/DAExNMxeQR4/A0cdjUod7JWZskTl53o1jA/view?utm_content=DAExNMxeQR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         }
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/waiting.png"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+{
+      image: require("./assets/images/clustering.png"),
+      projectName: "Clustering",
+      projectDesc: `Unsupervised machine learning, that is, it does not need to have a prior classification. 
+	Tends to group more similar items based on some similarity metric.
+	Using summarization and clustering algorithms it is possible to group texts by their similarity.`,
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "More",
+          url: "https://www.canva.com/design/DAExNMxeQR4/A0cdjUod7JWZskTl53o1jA/view?utm_content=DAExNMxeQR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         }
+        //  you can add extra buttons here.
+      ]
+    },
+	{
+      image: require("./assets/images/classificacao.png"),
+      projectName: "Classification",
+      projectDesc: `Classification is supervised machine learning, it must have a prior classification.`,
+      footerLink: [
+        {
+          name: "More",
+          url: "https://www.canva.com/design/DAExNMxeQR4/A0cdjUod7JWZskTl53o1jA/view?utm_content=DAExNMxeQR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+        }
+        //  you can add extra buttons here.
       ]
     }
   ],
@@ -204,53 +220,32 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "COBIT",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/waiting.png"),
+        "Control Objectives for Information and Related Technology",
+      image: require("./assets/images/cobit.png"),
       footerLink: [
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "More",
+          url: "https://www.isaca.org/resources/cobit"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/waiting.png"),
+      title: "Praise by the Official Diary",
+      subtitle: `Praise for my dedication, efficiency, responsibility, technical capacity and commitment to the public interest in working with the Priority Digital Notebook project`,
+      image: require("./assets/images/elogio.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View",
+          url: "https://pergamum.anac.gov.br/arquivos/PA2017-4209.PDF"
         }
       ]
     },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/waiting.png"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: ""
-        },
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
