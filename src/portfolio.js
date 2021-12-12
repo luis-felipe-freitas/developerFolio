@@ -14,7 +14,8 @@ const greeting = {
   username: "Luis Felipe Freitas",
   title: "Hello there, I'm Luis Felipe Freitas",
   subTitle: emoji(
-    `I'm a Network Engineer who also passionately works with Data Science & AI Engineering.`
+    `I am a network engineer working as an IT project manager. 
+I am also passionate about Data Science and AI Engineering.`
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -46,7 +47,8 @@ const skillsSection = {
       `⚡ IT project manager who also performs IT Risk Assessment activities.`
     ),
     emoji(`⚡ Research and implementation of data science and AI bussiness 
-    focused solutions, specifically computer vision.`)
+    focused solutions, specifically computer vision.`),
+    emoji(`⚡ Management using agile methodologies, PMBOK and BPMN.`)
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -56,6 +58,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "AI/ML",
+      fontAwesomeClassname: "fas fa-brain"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -70,12 +76,19 @@ const educationInfo = {
       schoolName: "University of Brasilia",
       logo: require("./assets/images/unb.png"),
       subHeader: "Bachelor in Network Enginering",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      duration: "July 2019",
+      desc: "Participated in the research of Wireless networks",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Wireless networks and applications of recent technologies combined with their electromagnetic characteristics."
       ]
+    },
+    {
+      schoolName: "Catholic University of Brasilia",
+      logo: require("./assets/images/ucb.png"),
+      subHeader: "Bachelor in Information Security",
+      duration: "July 2019",
+      desc: "Participated in the research of Security Aspects of Networks",
+      descBullets: ["Security Aspects of Corporate Wireless Networks."]
     }
   ]
 };
@@ -86,16 +99,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Data Analisys",
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "IT project manager",
+      progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Programming",
-      progressPercentage: "70%"
+      Stack: "Data Analisys",
+      progressPercentage: "80%"
     },
     {
       Stack: "Risk Assessment",
-      progressPercentage: "80%"
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -107,29 +120,35 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/waiting.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Civil Aviation Regulation Technician",
+      company: "National Civil Aviation Agency",
+      companylogo: require("./assets/images/anac.png"),
+      date: "November 2016 – Present",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        `Perform risk assessment routines in the IT department, identifying and
+evaluating hazard and then suggesting a mitigating strategy to be implemented
+by the technical team`,
+        `Management of IT projects beginning to end. Understanding the needs of the
+business area and making sure it’s aligned with the enterprise goals and
+providing an IT based solution to it.`,
+        `Provide AI/ML solutions to optimize business process models, audit databases
+that include images and create an innovative environment inside the areas.`,
+        `Analyzing data form(architecture), storage, transfer, and representation to
+improve performance for clients, users and business areas.`,
+        `Collaborate and contribute with other engineers and senior managers to facilitate
+creation of business solutions.`
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/waiting.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/waiting.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Digital Accelerator Coordinator",
+      company: "National Civil Aviation Agency",
+      companylogo: require("./assets/images/anac.png"),
+      date: "March 2020 – Present",
+      desc: `Partner with professionals of different areas of the organization to understand
+and optimize business processes using artificial intelligence. Applying
+supervised and unsupervised learning, computer vision and natural language
+processing in order to achieve the business goals`
     }
   ]
 };
