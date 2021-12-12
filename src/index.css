@@ -1,9 +1,9 @@
 @font-face {
-  font-family: "Agustina Regular";
+  font-family: "Louis George Cafe";
   font-style: normal;
   font-weight: normal;
-  src: local("Agustina Regular"),
-    url("./assets/fonts/Agustina.woff") format("woff");
+  src: local("Louis George Cafe"),
+    url("./assets/fonts/Louis George Cafe.ttf") format("woff");
   font-display: swap;
 }
 @font-face {
