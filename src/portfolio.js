@@ -14,25 +14,23 @@ const greeting = {
   username: "Luis Felipe Freitas",
   title: "Hello there, I'm Luis Felipe Freitas",
   subTitle: emoji(
-    `A passionate Full Stack Software Developer 🚀 having an experience 
-  of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / 
-  React Native and some other cool libraries and frameworks.`
+    `I am a network engineer working with IT project management for about 5 years. 
+I am also love working with Data Science and AI Engineering.`
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "bit.ly/Luis-Curriculum", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/luis-felipe-freitas",
+  linkedin: "https://www.linkedin.com/in/luis-felipe-freitas-n/",
+  gmail: "luisfelipefreitas@outlook.com",
+  // gitlab: "https://gitlab.com/saadpasta",
+  // facebook: "https://www.facebook.com/saad.pasta7",
+  // medium: "https://medium.com/@saadpasta",
+  // stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -42,15 +40,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "DATA LOVER WHO WANTS TO EXPLORE EVERYTHING",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      `⚡ IT project manager who also performs IT Risk Assessment activities.`
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji(`⚡ Research and implementation of data science and AI bussiness 
+    focused solutions, specifically computer vision.`),
+    emoji(`⚡ Management using agile methodologies, PMBOK and BPMN.`)
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -58,56 +55,12 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "AI/ML",
+      fontAwesomeClassname: "fas fa-brain"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -119,23 +72,22 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/waiting.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "University of Brasilia",
+      logo: require("./assets/images/unb.png"),
+      subHeader: "Bachelor in Network Enginering",
+      duration: "July 2019",
+      desc: "Participated in the research of Wireless networks",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Wireless networks and applications of recent technologies combined with their electromagnetic characteristics."
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/waiting.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Catholic University of Brasilia",
+      logo: require("./assets/images/ucb.png"),
+      subHeader: "Bachelor in Information Security",
+      duration: "July 2019",
+      desc: "Participated in the research of Security Aspects of Networks",
+      descBullets: ["Security Aspects of Corporate Wireless Networks."]
     }
   ]
 };
@@ -146,16 +98,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "IT project manager",
+      progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%"
+      Stack: "Data Analisys",
+      progressPercentage: "80%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "60%"
+      Stack: "Risk Assessment",
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -167,29 +119,35 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/waiting.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Civil Aviation Regulation Technician",
+      company: "National Civil Aviation Agency",
+      companylogo: require("./assets/images/anac.png"),
+      date: "November 2016 – Present",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        `Perform risk assessment routines in the IT department, identifying and
+evaluating hazard and then suggesting a mitigating strategy to be implemented
+by the technical team`,
+        `Management of IT projects beginning to end. Understanding the needs of the
+business area and making sure it’s aligned with the enterprise goals and
+providing an IT based solution to it.`,
+        `Provide AI/ML solutions to optimize business process models, audit databases
+that include images and create an innovative environment inside the areas.`,
+        `Analyzing data form(architecture), storage, transfer, and representation to
+improve performance for clients, users and business areas.`,
+        `Collaborate and contribute with other engineers and senior managers to facilitate
+creation of business solutions.`
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/waiting.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/waiting.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Digital Accelerator Coordinator",
+      company: "National Civil Aviation Agency",
+      companylogo: require("./assets/images/anac.png"),
+      date: "March 2020 – Present",
+      desc: `Partner with professionals of different areas of the organization to understand
+and optimize business processes using artificial intelligence. Applying
+supervised and unsupervised learning, computer vision and natural language
+processing in order to achieve the business goals`
     }
   ]
 };
@@ -206,29 +164,45 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME PROJECTS THAT I HELPED TO CREATE",
   projects: [
     {
-      image: require("./assets/images/waiting.png"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/anac-id.png"),
+      projectName: "ANAC-ID",
+      projectDesc: `ANAC-id is the artificial intelligence algorithm 
+	    developed in-house for analyzing images in the Agency's databases.`,
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "More",
+          url: "https://www.canva.com/design/DAExNMxeQR4/A0cdjUod7JWZskTl53o1jA/view?utm_content=DAExNMxeQR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/waiting.png"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/clustering.png"),
+      projectName: "Clustering",
+      projectDesc: `Unsupervised machine learning, that is, it does not need to have a prior classification. 
+	Tends to group more similar items based on some similarity metric.
+	Using summarization and clustering algorithms it is possible to group texts by their similarity.`,
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "More",
+          url: "https://www.canva.com/design/DAExNMxeQR4/A0cdjUod7JWZskTl53o1jA/view?utm_content=DAExNMxeQR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/classificacao.png"),
+      projectName: "Classification",
+      projectDesc: `Classification is supervised machine learning, it must have a prior classification.`,
+      footerLink: [
+        {
+          name: "More",
+          url: "https://www.canva.com/design/DAExNMxeQR4/A0cdjUod7JWZskTl53o1jA/view?utm_content=DAExNMxeQR4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+        }
+        //  you can add extra buttons here.
       ]
     }
   ],
@@ -245,50 +219,28 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/waiting.png"),
+      title: "COBIT",
+      subtitle: "Control Objectives for Information and Related Technology",
+      image: require("./assets/images/cobit.png"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1x7e1FWMVKp1er371IsIDvnubV1h4a9eJ/view?usp=drivesdk"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "More",
+          url: "https://www.isaca.org/resources/cobit"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/waiting.png"),
+      title: "Praise by the Official Diary",
+      subtitle: `Praise for my dedication, efficiency, responsibility, technical capacity and commitment to the public interest in working with the Priority Digital Notebook project`,
+      image: require("./assets/images/elogio.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/waiting.png"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: ""
-        },
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "View",
+          url: "https://pergamum.anac.gov.br/arquivos/PA2017-4209.PDF"
         }
       ]
     }
@@ -300,8 +252,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+55 61 9903-1073",
+  email_address: "luisfelipefreitas@outlook.com"
 };
 
 /************** NAO UTILIZADO */
